@@ -1,6 +1,6 @@
 Name of Quantlet: 'Deribit_inverse_BTC_options'
 Published in: 'Pricing and hedging inverse BTC options'
-Description: 'As the largest exchange for crypto options, Deribit offers European options in which the underlying asset is the value of Bitcoin (BTC) in USD, but the payoff is converted back to BTC. However, empirical studies on crypto options remain scarce. Thus, we first summarize stylized features of inverse BTC options based on data of the \href{https://blockchain-research-center.com/blockchain-explorer/}{Blockchain-Research-Center.com}. Second, we tackle numerical difficulties to successfully investigate  that the practically useful stochastic volatility with correlated jumps model out-performs simpler nested models in in-sample and out-of-sample pricing analysis, but they are indistinguishable in dynamic Delta hedging.'
+Description: 'We focus on the inverse BTC options traded in Deribit and provide codes to calibrate the BS, SV, SVJ, and SVCJ models and to calculate their deltas.'
 Keywords: Bitcoin, Deribit, stocahstic volatility, jump, dynamic delta hedge, options
-Author: Huei-Wen Teng
+Author: Huei-Wen Teng, Wolfgang Haerdle
 Submitted: 20220906
