@@ -3,4 +3,4 @@ Published in: 'Pricing and hedging inverse BTC options'
 Description: 'We focus on the inverse BTC options traded in Deribit and provide codes to calibrate the BS, SV, SVJ, and SVCJ models and to calculate their deltas.'
 Keywords: Bitcoin, Deribit, stocahstic volatility, jump, dynamic delta hedge, options
 Author: Huei-Wen Teng, Wolfgang Haerdle
-Submitted: 20220906
+Submitted: 2022.09.06
